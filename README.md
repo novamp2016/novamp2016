@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Portfolio]()
+[Portfolio](https://github.com/novamp2016/portfolio)
 
 <!--
 **novamp2016/novamp2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
